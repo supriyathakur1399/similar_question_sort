@@ -1,0 +1,2 @@
+deff_len,diff_words,start_words,common,fuzz_ratio,fuzz_sort,juccard,word_share,q1_noun,q2_noun,q1_verb,q2_verb,q1_adj,q2_adj,q1_adverb,q2_adverb,q1_conj,q2_conj,q1_pronoun,q2_pronoun,q1_prepo,q2_prepo,manhatten,cos_sim,euclidean
+-2,0,1,2,82,70,1.0,0.5,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0.8026369554054235,0.8271470025240026,0.5879676818941624
